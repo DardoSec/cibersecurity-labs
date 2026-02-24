@@ -1,0 +1,54 @@
+EJEMPLO DE EJECUCIÓN - SIDE CHANNEL TIMING LAB
+=============================================
+
+Comando ejecutado:
+
+C:\labs> side_channel.exe secreto 50
+
+
+[ Pantalla limpiada automáticamente ]
+
+
+Ingresa el password: aaaaaa
+Incorrecto
+Tiempo transcurrido: 0.012345 segundos
+
+
+Ingresa el password: saaaaa
+Incorrecto
+Tiempo transcurrido: 0.061832 segundos
+
+
+Ingresa el password: seaaaa
+Incorrecto
+Tiempo transcurrido: 0.112671 segundos
+
+
+Ingresa el password: secaaa
+Incorrecto
+Tiempo transcurrido: 0.165493 segundos
+
+
+Ingresa el password: secraa
+Incorrecto
+Tiempo transcurrido: 0.217084 segundos
+
+
+Ingresa el password: secrea
+Incorrecto
+Tiempo transcurrido: 0.268935 segundos
+
+
+Ingresa el password: secreto
+Correcto!
+Tiempo transcurrido: 0.320172 segundos
+
+
+OBSERVACIÓN:
+
+Cada carácter correcto incrementa el tiempo de ejecución aproximadamente en 50 ms,
+permitiendo inferir progresivamente el valor del password mediante un ataque por
+canal lateral temporal (timing side-channel attack).
+
+
+FIN DEL EJEMPLO
