@@ -116,7 +116,7 @@ cybersecurity-labs/
 ├── 
 ├── 
 └── 
----
+```
 ## Estado del proyecto
 
 Este repositorio está en **desarrollo activo**.
