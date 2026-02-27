@@ -37,7 +37,7 @@ Ejemplo usando `g++`:
 
 ```bash
 g++ side_channel.cpp -O0 -o side_channel.exe
-
+```
 ## Sintaxis
 
 side_channel.exe <password_real> <milisegundos_por_caracter>
