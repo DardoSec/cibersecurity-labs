@@ -21,14 +21,14 @@ Este proyecto está diseñado principalmente para **estudiantes de nivel medio y
 
 Este repositorio contiene laboratorios organizados por temática, tales como:
 
-- 🔐 Criptografía básica y aplicada  
-- 🕵️ Análisis de malware (estático y dinámico)  
-- 🧬 Ataques por canal lateral (*side-channel attacks*)  
-- 💻 Explotación básica de vulnerabilidades  
-- 🔎 Ingeniería inversa introductoria  
-- 📡 Redes, sniffing y análisis de tráfico  
-- 🧠 Programación segura  
-- 🛠️ Automatización y scripting para seguridad  
+- Criptografía básica y aplicada  
+- Análisis de malware (estático y dinámico)  
+- Ataques por canal lateral (*side-channel attacks*)  
+- Explotación básica de vulnerabilidades  
+- Ingeniería inversa introductoria  
+- Redes, sniffing y análisis de tráfico  
+- Programación segura  
+- Automatización y scripting para seguridad  
 
 Cada laboratorio incluye:
 
@@ -58,7 +58,7 @@ El objetivo es **comprender cómo funcionan los ataques para aprender a prevenir
 
 ---
 
-## ⚠️ Advertencia ética
+## Advertencia ética
 
 Este material se proporciona **únicamente con fines educativos**.
 
@@ -73,7 +73,7 @@ El autor **no se responsabiliza por el uso indebido** de la información conteni
 
 ---
 
-## 🏫 Uso educativo
+## Uso educativo
 
 Este proyecto está especialmente pensado para:
 
@@ -105,7 +105,7 @@ Cada laboratorio detalla sus propios requisitos.
 
 ---
 
-## 📁 Organización del repositorio
+## Organización del repositorio
 
 ```text
 cybersecurity-labs/
@@ -132,7 +132,7 @@ Se irán incorporando:
 
 ## Autor
 
-**DardoSec**  
+**D. García**  
 Docente – Informática – Ciberseguridad – Robótica educativa
 
 ---
