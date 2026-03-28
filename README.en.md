@@ -21,14 +21,14 @@ This project is mainly designed for **middle and high school students**, teacher
 
 This repository contains laboratories organized by topic, such as:
 
-- 🔐 Basic and applied cryptography  
-- 🕵️ Malware analysis (static and dynamic)  
-- 🧬 Side-channel attacks  
-- 💻 Basic vulnerability exploitation  
-- 🔎 Introductory reverse engineering  
-- 📡 Networking, sniffing, and traffic analysis  
-- 🧠 Secure programming  
-- 🛠️ Security automation and scripting  
+- Basic and applied cryptography  
+- Malware analysis (static and dynamic)  
+- Side-channel attacks  
+- Basic vulnerability exploitation  
+- Introductory reverse engineering  
+- Networking, sniffing, and traffic analysis  
+- Secure programming  
+- Security automation and scripting  
 
 Each laboratory includes:
 
@@ -58,7 +58,7 @@ The goal is to **understand how attacks work in order to better prevent them**.
 
 ---
 
-## ⚠️ Ethical Disclaimer
+## Ethical Disclaimer
 
 This material is provided **strictly for educational purposes**.
 
@@ -73,7 +73,7 @@ The author **assumes no responsibility for misuse** of the content of this repos
 
 ---
 
-## 🏫 Educational Use
+## Educational Use
 
 This project is especially intended for:
 
@@ -105,7 +105,7 @@ Each laboratory specifies its own requirements.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 cybersecurity-labs/
@@ -133,7 +133,7 @@ Future additions include:
 
 ## Author
 
-**DardoSec**  
+**D. García**  
 Teacher – Computer Science – Cybersecurity – Educational Robotics  
 
 ---
