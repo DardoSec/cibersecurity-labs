@@ -1,0 +1,3 @@
+- revisar backups
+- probar restauracion
+- documentar hallazgos
